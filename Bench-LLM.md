@@ -43,4 +43,4 @@ Choć w skali całego roku rolnik musi trzymać się niskiej średniej (5%), to 
 Oblicz, ile kilogramów kiszonki z kukurydzy o zawartości 30% suchej masy, maksymalnie można podać krowie ważącej 600 kg, jeżeli dzienne zapotrzebowanie na suchą masę wynosi 3,5% jej masy ciała. 
 
 # Test 2
-Zidentyfikuj mechanizm rynkowy, który jest przedstawiony w poniższej tabeli. W tabeli pokazano zmianę ceny i ilości produktu rolnego na rynku. 2018= 2.00zł/kg i 5000ton, 2019= 2.50zł/kg i 4000ton, 2020= 3.00zł/kg i 3000ton. A. Popyt rośnie, podaż rośnie B. Popyt rośnie, podaż maleje C. Popyt maleje, podaż rośnie D. Popyt maleje, podaż maleje
+Zidentyfikuj mechanizm rynkowy, który jest przedstawiony w poniższej tabeli. W tabeli pokazano zmianę ceny i ilości produktu rolnego na rynku. 2018r = 2.00zł/kg i 5000ton, 2019r = 2.50zł/kg i 4000ton, 2020r = 3.00zł/kg i 3000ton. A. Popyt rośnie, podaż rośnie B. Popyt rośnie, podaż maleje C. Popyt maleje, podaż rośnie D. Popyt maleje, podaż maleje
