@@ -38,3 +38,6 @@ Twoja odpowiedź była nieprawidłowa, ponieważ pomyliłeś **limit roczny** z 
 
 **Podsumowując:**
 Choć w skali całego roku rolnik musi trzymać się niskiej średniej (5%), to w konkretnym dniu może podać zwierzętom (innym niż roślinożerne) dawkę zawierającą do 25% paszy nieekologicznej, aby zachować elastyczność w żywieniu, np. w sytuacjach przejściowych braków pasz ekologicznych.
+
+# Test 1
+Oblicz, ile kilogramów kiszonki z kukurydzy o zawartości 30% suchej masy, maksymalnie można podać krowie ważącej 600 kg, jeżeli dzienne zapotrzebowanie na suchą masę wynosi 3,5% jej masy ciała. 
