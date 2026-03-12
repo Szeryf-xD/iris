@@ -44,3 +44,18 @@ Oblicz, ile kilogramów kiszonki z kukurydzy o zawartości 30% suchej masy, maks
 
 # Test 2
 Zidentyfikuj mechanizm rynkowy, który jest przedstawiony w poniższej tabeli. W tabeli pokazano zmianę ceny i ilości produktu rolnego na rynku. 2018r = 2.00zł/kg i 5000ton, 2019r = 2.50zł/kg i 4000ton, 2020r = 3.00zł/kg i 3000ton. A. Popyt rośnie, podaż rośnie B. Popyt rośnie, podaż maleje C. Popyt maleje, podaż rośnie D. Popyt maleje, podaż maleje
+
+# Test 3
+Krowa o masie ciała 500 kg, dająca 20 litrów mleka dziennie o zawartości 4% tłuszczu, spożywa dziennie 45 kg zielonki pastwiskowej. Ponadto ma być karmiona jeszcze dwiema paszami: śrutą jęczmienną oraz słomą jęczmienną. Dokończ dla niej letnią dzienną dawkę pokarmową z tym zestawem pasz.
+
+Zapotrzebowanie bytowe dzienne 4,6 j.o. 280g białka strawnego.
+
+Zapotrzebowanie produkcyjne dzienne na 20 litrów mleka 10 j.o. i 1140 g białka strawnego.
+
+Zawartość składników pokarmowych w 1 kg paszy:
+
+a) zielonka pastwiskowa 0,23 j.o. 26 g białka strawnego
+
+b) słoma jęczmienna 0,28 j.o. 6 g białka strawnego
+
+c) śruta jęczmienna 1,20 j.o. 86 g białka strawnego
