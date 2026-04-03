@@ -54,7 +54,7 @@ a) zielonka pastwiskowa 0,23 j.o. 26 g białka strawnego
 b) słoma jęczmienna 0,28 j.o. 6 g białka strawnego
 c) śruta jęczmienna 1,20 j.o. 86 g białka strawnego
 
-# Test 4 (od PKS)
+# Test 4 (od PKS) 77,4 km/h
 Jeśli pociąg pokonuje 120 km w ciągu 1,5 godziny, następnie zatrzymuje się na 20 minut, a potem przejeżdża 80 km w ciągu 45 minut, jaka jest średnia prędkość na całej trasie?
 
 # Test 5 (PKS)
